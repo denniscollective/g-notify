@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
                 spec/g_spec.rb
                 README.markdown
                 Rakefile )
-  s.add_dependency("ruby-growl", ">= 1.0.1")
+  s.add_dependency("notify", ">= 0.2.1")
   s.author = 'jugyo'
   s.email = 'jugyo.org@gmail.com'
   s.homepage = 'http://github.com/jugyo/g'
